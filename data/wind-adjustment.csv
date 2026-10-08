@@ -1,0 +1,7 @@
+Wind Speed,Wind Direction,Line Weight Adjustment,Brake Adjustment,Casting Distance
+0-5 mph (0-8 km/h),Any,None,Normal setting,Full range
+5-10 mph (8-16 km/h),Headwind,Up one weight class,+1 click,90% of normal
+5-10 mph (8-16 km/h),Tailwind,Down one weight class,-1 click,110% of normal
+10-15 mph (16-24 km/h),Headwind,Up two weight classes,+2 clicks,75% of normal
+10-15 mph (16-24 km/h),Crosswind,Up one weight class,+1 click into wind,80% of normal
+15+ mph (24+ km/h),Any,Up three weight classes,Max setting,Short casts only
