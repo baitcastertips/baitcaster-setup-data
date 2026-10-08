@@ -36,8 +36,9 @@ the line rating printed on your own rod and reel.
 
 ## License
 
-The files in `data/` are released under CC BY 4.0 — see [LICENSE](LICENSE) for the
-attribution string to use.
+The files in `data/` are released under CC0 1.0 Universal — a public domain
+dedication, so you can reuse them for any purpose without attribution. See
+[LICENSE](LICENSE) for the full text.
 
 ## Corrections
 
